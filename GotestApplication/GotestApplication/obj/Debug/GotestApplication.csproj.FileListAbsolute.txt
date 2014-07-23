@@ -1,0 +1,5 @@
+C:\Users\aasokkumar\Documents\Visual Studio 2008\Projects\GotestApplication\GotestApplication\bin\GotestApplication.dll
+C:\Users\aasokkumar\Documents\Visual Studio 2008\Projects\GotestApplication\GotestApplication\bin\GotestApplication.pdb
+C:\Users\aasokkumar\Documents\Visual Studio 2008\Projects\GotestApplication\GotestApplication\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\aasokkumar\Documents\Visual Studio 2008\Projects\GotestApplication\GotestApplication\obj\Debug\GotestApplication.dll
+C:\Users\aasokkumar\Documents\Visual Studio 2008\Projects\GotestApplication\GotestApplication\obj\Debug\GotestApplication.pdb
